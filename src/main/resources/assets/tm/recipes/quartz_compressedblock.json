@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": 
+        [
+        "III",
+        "III",
+        "III"
+        ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "tm:quartz_compressed"
+        }
+    },
+    
+    "result":
+    {
+        "item": "tm:quartz_compressedblock",
+        "count": 1
+    }
+}
